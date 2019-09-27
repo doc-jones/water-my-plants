@@ -21,4 +21,6 @@ public class WaterMyPlantsApplication {
         dispatcherServlet.setThrowExceptionIfNoHandlerFound(true);
     }
 
+//    Comment to commit
 }
+
